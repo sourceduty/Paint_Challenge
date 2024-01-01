@@ -1,5 +1,5 @@
 # Paint Challenge V1.0
-# Copyright (C) 2023, Sourceduty - All Rights Reserved.
+# Copyright (C) 2024, Sourceduty - All Rights Reserved.
 
 import random
 
