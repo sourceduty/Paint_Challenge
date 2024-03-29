@@ -4,9 +4,9 @@
 
 This concept program allows users to paint and draw on a canvas, save their drawings, export them as PDF files, and generate art in fun drawing challenges.
 
-#
+***
 
-## Microsoft Paint with AI
+### Microsoft Paint with AI
 
 Microsoft Paint with AI, a dynamic application that merges the timeless joy of painting and drawing with the cutting-edge power of artificial intelligence. This innovative program provides users with a platform to unleash their creativity, offering a wide array of features tailored to both novice doodlers and seasoned artists alike.
 
