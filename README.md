@@ -1,13 +1,9 @@
-## Paint_Challenge
+![Paint_Challenge](https://github.com/sourceduty/Paint_Challenge/assets/123030236/7d3a4246-a367-4d51-89d8-1b89ca23a643)
 
 🎨 Paint with text based depiction challenges.
 
-***
-
 This concept program allows users to paint and draw on a canvas, save their drawings, export them as PDF files, and generate art in fun drawing challenges.
 
-#
-![Paint_Challenge](https://github.com/sourceduty/Paint_Challenge/assets/123030236/7d3a4246-a367-4d51-89d8-1b89ca23a643)
 #
 
 ## Microsoft Paint with AI
