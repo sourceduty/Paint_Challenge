@@ -9,7 +9,7 @@ This concept Python program allows users to paint and draw on a canvas, save the
 Generate Challenge: Uses the challenge_generator script to create random drawing prompts like "Please draw a flower." This script randomly selects an object from a predefined list to form a challenge.
 
 #
-### Graduated Depiction Challenges
+#### Graduated Depiction Challenge Concept
 
 The structure of these challenges is graduated, starting with simpler tasks and progressing to more complex ones. Initially, artists might be tasked with integrating short, straightforward texts into their paintings, such as single words or quotes. As they advance, the challenges increase in complexity, requiring the integration of longer passages or the creation of pieces where the text and the visual elements are interdependent. This graduated approach not only helps in skill development but also in building an understanding of how text can alter and enhance the visual storytelling in art. The increasing difficulty encourages continuous learning and adaptation, pushing artists to expand their creative boundaries.
 
