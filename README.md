@@ -35,5 +35,10 @@ Whether you're an aspiring artist looking to hone your skills or simply seeking 
 <br>    
 </details>
 
+#
+### Related Links
+
+[Paint Challenge - PieceX](https://www.piecex.com/eng/source-code/Paint-Challenge-7265)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
