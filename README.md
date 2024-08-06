@@ -39,6 +39,8 @@ Whether you're an aspiring artist looking to hone your skills or simply seeking 
 ### Related Links
 
 [Paint Challenge - PieceX](https://www.piecex.com/eng/source-code/Paint-Challenge-7265)
+<br>
+[Sourceduty Notepad](https://github.com/sourceduty/Sourceduty_Notepad)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
