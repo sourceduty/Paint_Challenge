@@ -1,6 +1,6 @@
 ![Paint_Challenge](https://github.com/sourceduty/Paint_Challenge/assets/123030236/7d3a4246-a367-4d51-89d8-1b89ca23a643)
 
-🎨 Paint with text based depiction challenges.
+> Paint with text based depiction challenges.
 
 #
 
